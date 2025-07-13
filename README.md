@@ -10,7 +10,7 @@ Mình là một <b><i>Web Developer</i></b> đồng thời cũng là một ngư�
 ---
 <h1><u>🧠 Skill</u></h1>
 
-<h2🌐 Frontend</h2>
+<h2>🌐 Frontend</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" title="HTML5"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" title="CSS3"/>
