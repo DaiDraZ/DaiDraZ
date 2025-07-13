@@ -26,9 +26,7 @@ Mình là một <b><i>Web Developer</i></b> đồng thời cũng là một ngư�
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 
-
-> 🧩 **Solid Life Method**  
-> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=18&pause=1000&color=00AE10&background=000000&width=1080&lines=%E2%80%9CMu%E1%BB%91n+b%E1%BA%A3o+v%E1%BB%87+h%E1%BB%87+th%E1%BB%91ng%2C+tr%C6%B0%E1%BB%9Bc+ti%C3%AAn+ph%E1%BA%A3i+hi%E1%BB%83u+c%C3%A1ch+n%C3%B3+b%E1%BB%8B+ph%C3%A1+v%E1%BB%A1.%E2%80%9D" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=18&pause=1000&color=00AE10&background=000000&width=1080&lines=%E2%80%9CMu%E1%BB%91n+b%E1%BA%A3o+v%E1%BB%87+h%E1%BB%87+th%E1%BB%91ng%2C+tr%C6%B0%E1%BB%9Bc+ti%C3%AAn+ph%E1%BA%A3i+hi%E1%BB%83u+c%C3%A1ch+n%C3%B3+b%E1%BB%8B+ph%C3%A1+v%E1%BB%A1.%E2%80%9D" alt="Typing SVG" /></a>
 ---
 <h1><u>🧠 Skill</u></h1>
 
@@ -71,7 +69,7 @@ Mình là một <b><i>Web Developer</i></b> đồng thời cũng là một ngư�
 <a href="http://www.github.com/DaiDraZ"><img src="https://github-readme-stats.vercel.app/api?username=DaiDraz&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DaiDraz's GitHub stats" /></a>
 <a href="http://www.github.com/DaiDraZ"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DaiDraz&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
-## 🏆 GitHub Trophies
+## <s>🏆 Github trophies</s>
 <a href="http://www.github.com/DaiDraz"><img src="https://github-profile-trophy.vercel.app/?username=DaiDraZ&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="DaiDraz github's trophy" /></a>
 
 ### 🔝 Top Contributed Repo
