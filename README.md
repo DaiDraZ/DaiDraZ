@@ -40,7 +40,7 @@ Mình là một <b><i>Web Developer</i></b> đồng thời cũng là một ngư�
 Đây là các kỹ năng mình đã và đang trau dồi và học hỏi từ các dev web lâu 
 năm
 
-## 🌐 Frontend
+### 🌐 Frontend
 Phần xương của Website
 
 <p align="left">
@@ -55,7 +55,7 @@ Phần xương của Website
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" title="Vite"/>
 </p>
 
-## 🧠 Backend
+### 🧠 Backend
 Phần decor,giúp cho giao diện trở nên web đẹp và linh hoạt
 
 <p align="left">
@@ -66,7 +66,7 @@ Phần decor,giúp cho giao diện trở nên web đẹp và linh hoạt
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" title="FastAPI"/>
 </p>
 
-## 🗃️ Database
+### 🗃️ Database
 Phần tối mật 🤣
 
 <p align="left">
@@ -75,7 +75,7 @@ Phần tối mật 🤣
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" title="MongoDB"/>
 </p>
 
-## ⚙️ DevOps & System
+### ⚙️ DevOps & System
 Phần data manager, không cẩn thận dễ bị leak cookie lắm 🍪
 
 <p align="left">
@@ -85,19 +85,19 @@ Phần data manager, không cẩn thận dễ bị leak cookie lắm 🍪
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 <div aligh="center">
 <a href="http://www.github.com/DaiDraZ"><img src="https://github-readme-stats.vercel.app/api?username=DaiDraz&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DaiDraz's GitHub stats" /></a>
 <a href="http://www.github.com/DaiDraZ"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DaiDraz&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
-## 🏆 Github Trophies
+# 🏆 Github Trophies
 <a href="http://www.github.com/DaiDraz"><img src="https://github-profile-trophy.vercel.app/?username=DaiDraZ&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="DaiDraz github's trophy" /></a>
 
-## 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DaiDraZ&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 📬 Contact for work
+# 📬 Contact for work
 
 -email
 
