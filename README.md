@@ -1,11 +1,11 @@
 ![Welcome](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ---
-<div style="border: 5px solid blue">
 # Introduce
 Welcome guy !!!  
 Mình là một <b><i>Web Developer</i></b> đồng thời cũng là một người yêu thích <b><i>Pentesting</i></b>.
-</div>
-> 🧩 **Quote**  
+
+
+> 🧩 **Solid Life Method**  
 > <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=18&pause=1000&color=00AE10&background=000000&width=1080&lines=%E2%80%9CMu%E1%BB%91n+b%E1%BA%A3o+v%E1%BB%87+h%E1%BB%87+th%E1%BB%91ng%2C+tr%C6%B0%E1%BB%9Bc+ti%C3%AAn+ph%E1%BA%A3i+hi%E1%BB%83u+c%C3%A1ch+n%C3%B3+b%E1%BB%8B+ph%C3%A1+v%E1%BB%A1.%E2%80%9D" alt="Typing SVG" /></a>
 ---
 <h1><u>🧠 Skill</u></h1>
