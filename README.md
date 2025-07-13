@@ -69,7 +69,7 @@ Mình là một <b><i>Web Developer</i></b> đồng thời cũng là một ngư�
 <a href="http://www.github.com/DaiDraZ"><img src="https://github-readme-stats.vercel.app/api?username=DaiDraz&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DaiDraz's GitHub stats" /></a>
 <a href="http://www.github.com/DaiDraZ"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DaiDraz&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
-## <s>🏆 Github trophies</s>
+## <b>🏆 Github trophies</b>
 <a href="http://www.github.com/DaiDraz"><img src="https://github-profile-trophy.vercel.app/?username=DaiDraZ&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="DaiDraz github's trophy" /></a>
 
 ### 🔝 Top Contributed Repo
