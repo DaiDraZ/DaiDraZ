@@ -1,15 +1,14 @@
 ![Welcome](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00AE10&background=000000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 ---
 # Introduce
 Welcome guy !!!  
 Mình là một **Web Developer** đồng thời cũng là một người yêu thích **Pentesting**.
 
 > 🧩 **Quote**  
-> “Muốn bảo vệ hệ thống, trước tiên phải hiểu cách nó bị phá vỡ.”
+> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=18&pause=1000&color=00AE10&background=000000&width=1080&lines=%E2%80%9CMu%E1%BB%91n+b%E1%BA%A3o+v%E1%BB%87+h%E1%BB%87+th%E1%BB%91ng%2C+tr%C6%B0%E1%BB%9Bc+ti%C3%AAn+ph%E1%BA%A3i+hi%E1%BB%83u+c%C3%A1ch+n%C3%B3+b%E1%BB%8B+ph%C3%A1+v%E1%BB%A1.%E2%80%9D" alt="Typing SVG" /></a>
 ---
 <h1>🧠 Skill</h1>
-<h2>🌐 Frontend</h2>
+<h3🌐 Frontend</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" title="HTML5"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" title="CSS3"/>
@@ -21,7 +20,7 @@ Mình là một **Web Developer** đồng thời cũng là một người yêu t
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" title="Bootstrap"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" title="Vite"/>
 </p>
-<h2>🧠 Backend</h2>
+<h3>🧠 Backend</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" title="Python"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" title="PHP"/>
@@ -29,13 +28,13 @@ Mình là một **Web Developer** đồng thời cũng là một người yêu t
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" title="NodeJS"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" title="FastAPI"/>
 </p>
-<h2>🗃️ Database</h2>
+<h3🗃️ Database</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" title="MySQL"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" title="PostgreSQL"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" title="MongoDB"/>
 </p>
-<h2>⚙️ DevOps & System</h2>
+<h3>⚙️ DevOps & System</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" title="Docker"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" title="Linux"/>
