@@ -99,7 +99,7 @@ Phần data manager, không cẩn thận dễ bị leak cookie lắm 🍪
 
 # 📬 Contact for work
 
--email
+- Email: truongdaizacky@gmail.com
 
 ## ☕ Donate me a cookie
 
