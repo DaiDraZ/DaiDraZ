@@ -40,7 +40,8 @@ Mình là một <b><i>Web Developer</i></b> đồng thời cũng là một ngư�
 Đây là các kỹ năng mình đã và đang trau dồi và học hỏi từ các dev web lâu 
 năm
 
-## 🌐 Frontend-Phần xương của Website
+## 🌐 Frontend
+Phần xương của Website
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" title="HTML5"/>
@@ -54,7 +55,8 @@ năm
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" title="Vite"/>
 </p>
 
-## 🧠 Backend-Phần decor,giúp cho giao diện trở nên web đẹp và linh hoạt
+## 🧠 Backend
+Phần decor,giúp cho giao diện trở nên web đẹp và linh hoạt
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" title="Python"/>
@@ -64,7 +66,8 @@ năm
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" title="FastAPI"/>
 </p>
 
-## 🗃️ Database-Phần tối mật 🤣
+## 🗃️ Database
+Phần tối mật 🤣
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" title="MySQL"/>
@@ -72,7 +75,8 @@ năm
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" title="MongoDB"/>
 </p>
 
-## ⚙️ DevOps & System-Phần manager
+## ⚙️ DevOps & System
+Phần data manager, không cẩn thận dễ bị leak cookie lắm 🍪
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" title="Docker"/>
