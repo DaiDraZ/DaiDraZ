@@ -1,26 +1,10 @@
 ![Welcome](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-# 🧠 Giới thiệu
+# Introduce
 
 Welcome guy !!!  
 Mình là một **Web Developer** đồng thời cũng là một người yêu thích **Pentesting**.
 
-### 🌐 Web Development
-
-- **Frontend**: HTML, CSS, JavaScript, TailwindCSS, React, Vue
-- **Backend**: Python (Flask, Django), Node.js, PHP
-- **API**: REST, JSON, JWT, OAuth2
-- **Database**: MySQL, PostgreSQL, MongoDB
-- **DevOps**: Docker, GitHub Actions
-
-### 🛡️ Web Exploitation
-
-- Burp Suite, OWASP ZAP
-- Intercept & Modify HTTP Requests
-- Recon: subdomain enumeration, directory brute-force
-- Manual Payload Crafting & Automation
-- Python Scripting (requests, BeautifulSoup)
----
 > 🧩 **Quote**  
 > “Muốn bảo vệ hệ thống, trước tiên phải hiểu cách nó bị phá vỡ.”
 ---
