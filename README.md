@@ -3,7 +3,12 @@
 # Introduce
 Welcome guy !!!  
 Mình là một <b><i>Web Developer</i></b> đồng thời cũng là một người yêu thích <b><i>Pentesting</i></b>.
-
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Unlicense License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 > 🧩 **Solid Life Method**  
 > <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=18&pause=1000&color=00AE10&background=000000&width=1080&lines=%E2%80%9CMu%E1%BB%91n+b%E1%BA%A3o+v%E1%BB%87+h%E1%BB%87+th%E1%BB%91ng%2C+tr%C6%B0%E1%BB%9Bc+ti%C3%AAn+ph%E1%BA%A3i+hi%E1%BB%83u+c%C3%A1ch+n%C3%B3+b%E1%BB%8B+ph%C3%A1+v%E1%BB%A1.%E2%80%9D" alt="Typing SVG" /></a>
@@ -41,9 +46,8 @@ Mình là một <b><i>Web Developer</i></b> đồng thời cũng là một ngư�
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" title="Docker"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" title="Linux"/>
 </p>
+
 ---
-
-
 
 ## 📊 GitHub Stats
 <div aligh="center">
@@ -55,9 +59,12 @@ Mình là một <b><i>Web Developer</i></b> đồng thời cũng là một ngư�
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DaiDraZ&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
+
 ## 📬 Contact for work
 
+-email
 
 ## ☕ Donate me a cookie
 
