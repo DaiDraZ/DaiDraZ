@@ -13,9 +13,12 @@ Mình là một <b><i>Web Developer</i></b> đồng thời cũng là một ngư�
 [![Issues][issues-shield]][issues-url]
 [![Unlicense License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+![Github][github_mark]
+![SublimeText][sublimetext]
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[sublimetext]: https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important
+[github_mark]: https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -87,10 +90,6 @@ Mình là một <b><i>Web Developer</i></b> đồng thời cũng là một ngư�
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DaiDraZ&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## Lines of code changes
-<table><thead><tr><th>Company Affiliation</th><th>Lines of Code Changes</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&amp;repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
----
 
 ## 📬 Contact for work
 
