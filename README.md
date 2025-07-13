@@ -1,113 +1,77 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>DaiDraz | Web Developer & Pentester</title>
-</head>
-<body style="font-family: Arial, sans-serif; background-color: #1c1917; color: #ffffff; padding: 2rem; line-height: 1.6;">
-  <h1>🧠 Introduce</h1>
-  <p>Welcome guy :))</p>
+![Welcome](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-  <h2>🎯 Aim</h2>
-  <ul>
-    <li>Build web</li>
-    <li>SQL Injection</li>
-    <li>Cross-Site Scripting (XSS)</li>
-    <li>Cross-Site Request Forgery (CSRF)</li>
-    <li>Authentication/Authorization Bypass</li>
-    <li>File Upload Vulnerabilities</li>
-  </ul>
+# 🧠 Giới thiệu
 
-  <hr>
+Welcome guy !!!  
+Mình là một **Web Developer** đồng thời cũng là một người yêu thích **Pentesting**.
 
-  <h2>🔧 Tools and Skills</h2>
-  <h3>🌐 Web Development:</h3>
-  <ul>
-    <li><strong>Frontend:</strong> HTML, CSS, JavaScript, TailwindCSS, React, Vue</li>
-    <li><strong>Backend:</strong> Python (Flask, Django), Node.js, PHP</li>
-    <li><strong>API:</strong> REST, JSON, JWT, OAuth2</li>
-    <li><strong>Database:</strong> MySQL, PostgreSQL, MongoDB</li>
-    <li><strong>DevOps:</strong> Docker, GitHub Actions</li>
-  </ul>
+### 🌐 Web Development
 
-  <h3>🛠️ Web Exploitation:</h3>
-  <ul>
-    <li>Burp Suite, OWASP ZAP</li>
-    <li>Intercept & Modify HTTP Requests</li>
-    <li>Recon: subdomain enumeration, directory brute-forcing</li>
-    <li>Manual Payload Crafting & Automation</li>
-    <li>Scripting with Python (requests, BeautifulSoup)</li>
-  </ul>
+- **Frontend**: HTML, CSS, JavaScript, TailwindCSS, React, Vue
+- **Backend**: Python (Flask, Django), Node.js, PHP
+- **API**: REST, JSON, JWT, OAuth2
+- **Database**: MySQL, PostgreSQL, MongoDB
+- **DevOps**: Docker, GitHub Actions
 
-  <hr>
+### 🛡️ Web Exploitation
 
-  <blockquote style="font-style: italic; border-left: 4px solid #22c55e; padding-left: 1rem;">
-    “Muốn bảo vệ hệ thống, trước tiên phải hiểu cách nó bị phá vỡ.”
-  </blockquote>
+- Burp Suite, OWASP ZAP
+- Intercept & Modify HTTP Requests
+- Recon: subdomain enumeration, directory brute-force
+- Manual Payload Crafting & Automation
+- Python Scripting (requests, BeautifulSoup)
+---
+> 🧩 **Quote**  
+> “Muốn bảo vệ hệ thống, trước tiên phải hiểu cách nó bị phá vỡ.”
+---
+## 🧠 Skill
+### 🌐 Frontend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" title="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" title="React"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" title="Vue"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" title="TailwindCSS"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" title="Bootstrap"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" title="Vite"/>
+</p>
+### 🧠 Backend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" title="Python"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" title="PHP"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" title="Django"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" title="NodeJS"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" title="FastAPI"/>
+</p>
+### 🗃️ Database
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" title="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" title="MongoDB"/>
+</p>
+### ⚙️ DevOps & System
 
-  <hr>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" title="Linux"/>
+</p>
+---
+## 📊 GitHub Stats
+<a href="http://www.github.com/DaiDraz"><img src="https://github-readme-stats.vercel.app/api?username=DaiDraz&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DaiDraz's GitHub stats" /></a>
 
-  <h2>📬 Contact Me</h2>
-  <ul>
-    <li>Email: <a href="mailto:truongdaizacky@email.com" style="color: #22c55e;">truongdaizacky@email.com</a></li>
-    <li>Discord: <a href="https://discord.com/@holydra" style="color: #22c55e;">@holydra</a></li>
-    <li>GitHub: <a href="https://github.com/DaiDraZ" style="color: #22c55e;">@DaiDraZ</a></li>
-  </ul>
+<a href="http://www.github.com/DaiDraz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DaiDraz&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-  <p>🌍 I'm based in Ha Noi, Viet Nam</p>
+<a href="https://github.com/DaiDraz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaiDraz&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
-  <p>
-    <a href="https://www.github.com/DaiDraz" target="_blank">
-      <img src="https://img.shields.io/github/followers/DaiDraz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-    </a>
-  </p>
+---
+## 📬 Contact me
+- 📧 Email: truongdaizacky@email.com  
+- 💬 Discord: [@holydra](https://discord.com/@holydra)  
+- 🌍 GitHub: [@DaiDraZ](https://github.com/DaiDraZ)  
+---
 
-  <h3>🧠 Skills</h3>
-  <p>
-    <!-- List of icons from the markdown (simplified for demo purposes) -->
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" title="HTML5" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" title="CSS3" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" title="JavaScript" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" title="React" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" title="Vue" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" title="Python" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" title="Docker" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" title="Linux" />
-    <!-- You can continue adding other icons as needed -->
-  </p>
+## ☕ Donate me
 
-  <h3>🌐 Socials</h3>
-  <p>
-    <a href="https://github.com/DaiDraz" target="_blank">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
-    </a>
-  </p>
-
-  <h3>📊 Badges</h3>
-  <p>
-    <a href="https://github.com/DaiDraz">
-      <img src="https://github-readme-stats.vercel.app/api?username=DaiDraz&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-    </a>
-  </p>
-
-  <p>
-    <a href="https://github.com/DaiDraz">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaiDraz&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-    </a>
-  </p>
-
-  <p>
-    <a href="https://github.com/DaiDraz">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaiDraz&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" />
-    </a>
-  </p>
-
-  <h3>☕ Support Me</h3>
-  <p>
-    <a href="https://www.buymeacoffee.com/DaiDraZ">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
-    </a>
-  </p>
-</body>
-</html>
+<a href="https://www.buymeacoffee.com/DaiDraZ"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
