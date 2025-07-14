@@ -13,15 +13,13 @@
         <li><a href="#frontend">Frontend</a></li>
         <li><a href="#backend">Backend</a></li>
         <li><a href="#database">Database</a></li>
-        <li><a href="#devops-and-system">DevOps & System</a></li>
-        
+        <li><a href="#devops-and-system">DevOps and System</a></li>
       </ul>
     </li>
     <li><a href="#stat">Github Stats</a></li>
     <li><a href="#trophy">Github Trophies</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#donate">Donate me</a></li>
-    
+    <li><a href="#contact-for-work">Contact</a></li>
+    <li><a href="#donate-me">Donate me a cookie</a></li>
   </ol>
 </details>
 
@@ -97,7 +95,7 @@ năm
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" title="MongoDB"/>
 </p>
 
-### DevOps & System
+### DevOps and System
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" title="Docker"/>
