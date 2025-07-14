@@ -1,5 +1,30 @@
 ![Welcome](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ---
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#introduce">Introduce</a>
+    </li>
+    <li>
+      <a href="#Skill">Skill</a>
+      <ul>
+        <li><a href="#frontend">Frontend</a></li>
+        <li><a href="#backend">Backend</a></li>
+        <li><a href="#database">Database</a></li>
+        <li><a href="#devops-and-system">DevOps & System</a></li>
+        
+      </ul>
+    </li>
+    <li><a href="#stat">Github Stats</a></li>
+    <li><a href="#trophy">Github Trophies</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#donate">Donate me</a></li>
+    
+  </ol>
+</details>
+
 # Introduce
 Welcome guy !!!  
 Mình là một <b><i>Web Developer</i></b> đồng thời cũng là một người yêu thích <b><i>Pentesting</i></b>.
