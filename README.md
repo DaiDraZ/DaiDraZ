@@ -104,6 +104,28 @@ năm
 
 ---
 
+## Tools
+
+- [![bolt.new](https://www.google.com/s2/favicons?domain=bolt.new&sz=16) bolt.new](https://bolt.new/github.com/DaiDraZ/Archive) - build apps with AI
+- [![stackblitz.com](https://www.google.com/s2/favicons?domain=stackblitz.com&sz=16) stackblitz.com](https://stackblitz.com/github.com/DaiDraZ/Archive) - online IDE
+- [![pr.new](https://www.google.com/s2/favicons?domain=pr.new&sz=16) pr.new](https://pr.new/github.com/DaiDraZ/Archive) - run with codeflow
+- [![github.dev](https://www.google.com/s2/favicons?domain=github.dev&sz=16) github.dev](https://github.dev/DaiDraZ/Archive) - VSCode in the browser
+- [![gitmcp.io](https://www.google.com/s2/favicons?domain=gitmcp.io&sz=16) gitmcp.io](https://gitmcp.io/DaiDraZ/Archive) - mcp for any repo
+- [![uithub.com](https://www.google.com/s2/favicons?domain=uithub.com&sz=16) uithub.com](https://uithub.com/DaiDraZ/Archive) - prompt-friendly codebase
+- [![gitingest.com](https://www.google.com/s2/favicons?domain=gitingest.com&sz=16) gitingest.com](https://gitingest.com/DaiDraZ/Archive) - prompt-friendly codebase
+- [![github.gg](https://www.google.com/s2/favicons?domain=github.gg&sz=16) github.gg](https://github.gg/DaiDraZ/Archive) - chat with codebase
+- [![talktogithub.com](https://www.google.com/s2/favicons?domain=talktogithub.com&sz=16) talktogithub.com](https://talktogithub.com/DaiDraZ/Archive) - chat with codebase
+- [![gitpodcast.com](https://www.google.com/s2/favicons?domain=gitpodcast.com&sz=16) gitpodcast.com](https://gitpodcast.com/DaiDraZ/Archive) - codebase to podcast
+- [![gitdiagram.com](https://www.google.com/s2/favicons?domain=gitdiagram.com&sz=16) gitdiagram.com](https://gitdiagram.com/DaiDraZ/Archive) - codebase to diagram
+- [![openrepowiki.xyz](https://www.google.com/s2/favicons?domain=openrepowiki.xyz&sz=16) openrepowiki.xyz](https://openrepowiki.xyz/DaiDraZ/Archive) - codebase to wikipedia (OSS)
+- [![deepwiki.com](https://www.google.com/s2/favicons?domain=deepwiki.com&sz=16) deepwiki.com](https://deepwiki.com/DaiDraZ/Archive) - codebase to wikipedia
+- [![cache.forgithub.com](https://www.google.com/s2/favicons?domain=cache.forgithub.com&sz=16) cache.forgithub.com](https://cache.forgithub.com/DaiDraZ/Archive) - cache of repo metadata
+- [![threads.forgithub.com](https://www.google.com/s2/favicons?domain=threads.forgithub.com&sz=16) threads.forgithub.com](https://threads.forgithub.com/DaiDraZ/Archive) - find X posts about repos
+- [![www.star-history.com](https://www.google.com/s2/favicons?domain=www.star-history.com&sz=16) www.star-history.com](https://www.star-history.com/#DaiDraZ/Archive) - track stars
+- [![githubtracker.com](https://www.google.com/s2/favicons?domain=githubtracker.com&sz=16) githubtracker.com](https://githubtracker.com/DaiDraZ/Archive) - track commits, issues, prs and more
+
+---
+
 # 📊 GitHub Stats
 <div aligh="center">
 <a href="http://www.github.com/DaiDraZ"><img src="https://github-readme-stats.vercel.app/api?username=DaiDraz&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DaiDraz's GitHub stats" /></a>
